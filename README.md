@@ -5,7 +5,7 @@ Welcome to the Reestar Cake Shop Website repository! This website features a sim
 - **Homepage**: A clean and visually appealing homepage with key information about the cake shop and its offerings.
 - **Favicon**: A custom favicon representing the Reestar Cake Shop brand is displayed on browser tabs.
 - **Image Hover Zoom**: When users hover over the cake images, the image zooms in slightly to provide a dynamic feel.
-- **Responsive Design**: The site uses media queries to ensure the layout is optimized for both desktop and mobile screens.
+- **Responsive Design**: The site uses media queries to ensure the layout is optimized for both desktop, tablet and mobile screens.
 - **Simple Design**: Focused on simplicity and user-friendliness using HTML & CSS.
 
 ## Technologies Used
