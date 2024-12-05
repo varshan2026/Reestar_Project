@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Jost", serif;
+    background-color: rgb(0, 0, 0);
+}
+
+.container{
+    margin: 25px;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 5px 0 0 0;
+}
+
+nav ul{
+    text-align: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+}
+
+li a:hover{
+    color: rgb(161, 84, 1);
+    cursor: pointer;
+}
+
+.nav-title{
+    text-align: center;
+}
+
+.nav-title:hover{
+    color: rgb(161, 84, 1);
+}
+
+.item{
+    display: inline-block;
+    background-color: white;
+    border: 2px solid rgb(224, 144, 15);
+    margin: 20px 15px;
+    vertical-align: top;
+}
+
+.cake-item{
+    text-align: center;
+}
+
+.img-container{
+    overflow: hidden;
+}
+
+img{
+    width: 230px;
+    transition: 0.2s;
+}
+
+img:hover{
+    transform: scale(1.3);
+}
+
+.image-fluid{
+    max-width: 100%;
+}
+
+.item-title{
+    color: rgb(219, 113, 0);
+    text-align: center;
+}
+
+.item-description{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+button{
+    margin: 15px 0 0 0;
+    padding: 9px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: none;
+}
+
+button:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 115, 0);
+}
+
+.section-contact{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.contact-form{
+    display: inline-block;
+}
+
+.lable{
+    color: rgb(0, 0, 0);
+    text-align: start;
+}
+
+input, textarea{
+    border: none;
+    padding: 5px;
+    background-color: black;
+    border-radius: 2px;
+    margin: 5px 0 0 0;
+    color: white;
+}
+
+td button{
+    margin: 0;
+    padding: 5px 15px;
+    background-color: rgb(144, 65, 0);
+    width: 100%;
+}
+
+@media (max-width: 600px){
+    img{
+        width: 290px;
+    }
+}
+
+@media(min-width:601px) and (max-width: 998px){
+    img{
+        width: 270px;
+    }
+}
