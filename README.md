@@ -14,7 +14,7 @@ Welcome to the Reestar Cake Shop Website repository! This website features a sim
 - Media Queries
 
 ## Check It Out
-You can view the Reestar Cake Shop website by visiting [Reestar Cake Shop Website](#).
+You can view the Reestar Cake Shop website by visiting https://varshan2026.github.io/Reestar_Project/
 
 ## Contributing
 If you'd like to contribute, suggest improvements, or provide feedback, feel free to open an issue or create a pull request.
